@@ -1,0 +1,1 @@
+# plan-implementaci-n-proyecto-V2-13-05-2026
