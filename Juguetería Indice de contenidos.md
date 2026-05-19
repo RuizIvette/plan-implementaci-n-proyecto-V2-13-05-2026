@@ -8,7 +8,7 @@
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/15ab204d-3700-47ef-89e0-3ff986c80589" />
 
 ## Tecnologías Utilizadas
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/f87b0e62-a25b-4fcf-96a6-e848db984417" />
+<img width="682" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd5c5ee5-1193-437d-8fc3-a78c687349d8" />
 
 ## Desarrollo del Proyecto
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/aea02ec3-6040-4923-b55e-6375042130ae" />
